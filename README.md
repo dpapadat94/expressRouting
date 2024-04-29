@@ -55,3 +55,4 @@ The `mockdb/` folder contains a mock service for interacting with user data.
 - The `update` method takes in an user id and object as parameters and updates one user object in the data list
 - The `delete` method takes in an user id parameter and removes one user object the data list
 # expressRouting
+# productsRouter
